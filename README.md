@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a file organizer was made based on the way I personally like to organize a bunch of messy files before I sort them out.
+This is a file organizer based on the way I personally like to organize a bunch of messy files before I sort them out.
 
 ## Requirements
 
